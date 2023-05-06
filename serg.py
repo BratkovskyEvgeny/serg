@@ -233,7 +233,7 @@ def main(
     if st.button("Нажми кнопку! Там есть пару сюрпризов."):
         
         st.balloons()
-        video_file = open('serg1.mp4', 'rb')
+        video_file = open('serg2.mp4', 'rb')
         video_bytes = video_file.read()
 
         st.video(video_bytes)
