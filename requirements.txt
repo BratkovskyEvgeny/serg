@@ -1,0 +1,7 @@
+pip == 22.3.1
+streamlit  == 1.17.0
+Pillow == 9.4.0
+streamlit_extras
+streamlit_player
+
+
